@@ -11,6 +11,9 @@ watch memory usage, and see connected players.
 - EULA helper
 - Auto-detects your server `.jar` if placed next to the app
 
-## Run from source or download the .exe file
+## Download
+➡️ **[Get Tempo for Windows (latest release)](../../releases/latest)**
+
+## Run from source
 ```bash
 python app.py
