@@ -3,6 +3,9 @@
 A lightweight desktop app to start/stop a Java Minecraft server, view live console,
 watch memory usage, and see connected players.
 
+## Download
+➡️ **[Get Tempo for Windows (latest release)](../../releases/latest)**
+
 ## Features
 - Start / stop with RAM flags (Xms/Xmx) and `nogui` toggle
 - Console with color highlights and command entry
@@ -21,13 +24,10 @@ If Tempo is closed while the server is still running, the Minecraft server (a Ja
 
 If you’re unsure which Java process is the server or you have multiple Java apps open simply **restart your computer**.
 
-
-## Download
-➡️ **[Get Tempo for Windows (latest release)](../../releases/latest)**
-
 ## Run from source
 ```bash
 python app.py
+```
 
 ## License
 - Code: TPNCL v1.0 — free for personal/educational use. **No commercial use or resale.**
